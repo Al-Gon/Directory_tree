@@ -46,3 +46,6 @@ if __name__ == '__main__':
     func_list = [file_tree_1, file_tree_2]
     dir_name = '.'
     show_time(func_list, dir_name)
+    
+    print("Hello world") 
+    print("Hello world")         
